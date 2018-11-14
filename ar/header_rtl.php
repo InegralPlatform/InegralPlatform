@@ -34,7 +34,7 @@
 	<meta http-equiv="Expires" content="0">
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Cache-Control" content="no-cache">
-    <meta name="og:title" content="iplatform"/>
+  <meta name="og:title" content="iplatform"/>
 	<meta name="og:type" content="Business"/>
 	<meta name="og:url" content="http://www.imdb.com/title/tt0117500/"/>
 	<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
@@ -48,7 +48,7 @@
 	<meta name="og:longitude" content=""/>
 	<meta name="og:street-address" content=""/>
 	<meta name="og:locality" content="المملكة العربية السعودية"/>
-	<meta name="og:region" content="شارع انس بن مالك, الرياض/>
+	<meta name="og:region" content="شارع انس بن مالك, الرياض" />
 	<meta name="og:postal-code" content=""/>
 	<meta name="og:country-name" content="المملكة العربية السعودية"/>
 
@@ -65,13 +65,14 @@
 	<meta property="og:video:type" content="text/html" />
 
 
-	<!-- Use custom meta tags to store data that you need in javascript, instead of hard-coding that data into your javascript. I store my Google Analytics code in meta tags. Here's some examples: -->
+	<!-- Use custom meta tags to store data that you need in javascript, instead of hard-coding that data into your javascript. I store my Google Analytics code in meta tags.
+		 Here's some examples -->
 	<meta name="google-analytics" content=""/>
 	<meta name="disqus" content=""/>
 	<meta name="uservoice" content=""/>
 	<meta name="mixpanel" content=""/>
 	<!-- Apple Meta Tags -->
-	<meta name="apple-mobile-web-app-capable" content="yes">
+	<!-- <meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<meta name="format-detection" content="telephone=no">
 	<meta name= "viewport" content = "width = 320, initial-scale = 2.3, user-scalable = no">
@@ -82,7 +83,7 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
 	<link rel="apple-touch-startup-image" href="/startup.png">
-	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" /> -->
 	<!-- Internet Explorer Meta Tags -->
 	<meta http-equiv="Page-Enter" content="RevealTrans(Duration=2.0,Transition=2)" />
 	<meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0,Transition=12)" />

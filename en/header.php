@@ -67,11 +67,11 @@
 
 	<!-- Use custom meta tags to store data that you need in javascript, instead of hard-coding that data into your javascript. I store my Google Analytics code in meta tags. Here's some examples: -->
 	<meta name="google-analytics" content="1-AHFKALJ"/>
-	<meta name="disqus" content="abcdefg"/>
-	<meta name="uservoice" content="asdfasdf"/>
-	<meta name="mixpanel" content="asdfasdf"/>
+	<meta name="disqus" content=""/>
+	<meta name="uservoice" content=""/>
+	<meta name="mixpanel" content=""/>
 	<!-- Apple Meta Tags -->
-	<meta name="apple-mobile-web-app-capable" content="yes">
+	<!-- <meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<meta name="format-detection" content="telephone=no">
 	<meta name= "viewport" content = "width = 320, initial-scale = 2.3, user-scalable = no">
@@ -82,7 +82,7 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
 	<link rel="apple-touch-startup-image" href="/startup.png">
-	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" /> -->
 	<!-- Internet Explorer Meta Tags -->
 	<meta http-equiv="Page-Enter" content="RevealTrans(Duration=2.0,Transition=2)" />
 	<meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0,Transition=12)" />

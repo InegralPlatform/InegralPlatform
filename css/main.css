@@ -96,9 +96,9 @@ nav.navbar {
 }
 
 
-@media (max-width: 420px) {
+@media screen and (max-width: 420px) {
 	a.navbar-brand {
-		font-size: 23px ;
+		font-size: 20px ;
 		-webkit-transition: all 0.5s ease-in-out;
 		-moz-transition: all 0.5s ease-in-out;
 		-o-transition: all 0.5s ease-in-out;
@@ -130,7 +130,8 @@ a.navbar-brand img {
 	width: 50px;
 }
 
-@media (max-width: 767px) {
+
+@media screen and (max-width: 767px) {
 	.navbar-collapse,
 	.navbar-default {
 	background: linear-gradient(3deg, #003d7e, #087fff);
@@ -144,7 +145,9 @@ a.navbar-brand img {
 	background: -webkit-linear-gradient(3deg, #003d7e, #087fff);
 	background: -o-linear-gradient(3deg, #003d7e, #087fff);
 	background: -moz-linear-gradient(3deg, #003d7e, #087fff);
+
 	}
+
 }
 
 .navbar-collapse {
@@ -166,8 +169,9 @@ a.navbar-brand img {
 	background-color: transparent ;
 }
 
-@media (min-width: 200px) and (max-width: 767px) {
-	.navbar-default .navbar-nav>li>a {
+@media screen and (min-width: 200px) and (max-width: 767px) {
+
+.navbar-default .navbar-nav>li>a {
 		width: 114px;
 		margin: auto;
 	}
@@ -176,7 +180,7 @@ a.navbar-brand img {
 	}
 }
 
-@media (min-width: 200px) and (max-width: 366px) {
+@media screen and (min-width: 200px) and (max-width: 366px) {
 	a.navbar-brand {
 		font-size: 17px ;
 	}
@@ -287,7 +291,7 @@ div.head .content {
 	position: relative;
 }
 
-@media (max-width:477px) {
+@media screen and (max-width:477px) {
 	div.head div.content h1 {
 		font-size: 30px ;
 		-webkit-transition: all 0.5s ease-in-out;
@@ -324,7 +328,7 @@ div.head h1 span {
      /* About Section */
 /***************************/
 
-@media (max-width: 420px) {
+@media screen and (max-width: 420px) {
 	div.head div.form h2 img {
 		display: block;
 		padding-bottom: 10px;
@@ -464,7 +468,7 @@ div.content-about img {
 }
 
 
-@media(max-width:300px) {
+@media screen and (max-width:300px) {
 	div.about p.title{
 		font-size: 19px;
 	}
@@ -714,7 +718,7 @@ div.tab-pane h2 , .panel-heading h2 {
 
 
 
-@media(max-width:767px) {
+@media screen and (max-width:767px) {
 	.panel-heading p,
 	.panel-heading h2 {
 		text-align: center
@@ -738,7 +742,7 @@ div.tab-pane h2 , .panel-heading h2 {
 	}
 }
 
-@media(max-width:992px) {
+@media screen and (max-width:992px) {
 	.nav.panel-tabs {
 		display: block;
 	}
@@ -885,7 +889,7 @@ div.tab-pane img {
  .thumbnail>img {
     width: 100% !important;
 }
-@media (min-width:570px) and (max-width:776px){
+@media screen and (min-width:570px) and (max-width:776px){
 	.grid-item ,  .thumbnail>img {
 		width: 50%;
 
@@ -1025,7 +1029,7 @@ div.news span {
 	color: #0060C4;
 }
 
-@media(max-width:776px) {
+@media screen and (max-width:776px) {
 	div.news span {
 		display: block
 	}
@@ -1349,7 +1353,7 @@ div.data-contact ul li img {
 	display: inline;
 }
 
-@media(max-width:387px) {
+@media screen and (max-width:387px) {
 	div.data-contact ul li img {
 		width: 24px;
 	}
@@ -1442,7 +1446,7 @@ div.footer .box-1 {
 	box-shadow: 1px 1px 16px 2px rgba(153, 153, 153, 0.5)
 }
 
-@media(max-width:340px) {
+@media screen and (max-width:340px) {
 	div.footer .data-contact {
 		padding: 10px;
 	}
@@ -1607,3 +1611,5 @@ font-style: oblique;
     -webkit-transform: translate(0, -0px);
   }
 } */
+
+/*iphone*/

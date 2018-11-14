@@ -1,6 +1,6 @@
 
 
-<?php include('en/header.php'); ?>
+<?php  require_once('en/header.php'); ?>
 <?php include('en/form_process.php'); ?>
 
 
