@@ -23,8 +23,8 @@
 	<meta name="copyright" content="المنصة المتكاملة 2019">
 	<meta name="reply-to" content="hallo@iplatform.co">
 	<meta name="owner" content="ماجد عبد الغنى">
-	<meta name="url" content="http://www.websiteaddrress.com">
-	<meta name="identifier-URL" content="http://www.websiteaddress.com">
+	<meta name="url" content="http://www.iplatform.co">
+	<meta name="identifier-URL" content="http://www.iplatform.co">
 	<meta name="directory" content="submission">
 	<meta name="category" content="">
 	<meta name="coverage" content="Worldwide">
@@ -36,8 +36,8 @@
 	<meta http-equiv="Cache-Control" content="no-cache">
   <meta name="og:title" content="iplatform"/>
 	<meta name="og:type" content="Business"/>
-	<meta name="og:url" content="http://www.imdb.com/title/tt0117500/"/>
-	<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+	<meta name="og:url" content="http://www.iplatform.co"/>
+	<meta name="og:image" content="https://dyn.web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.11540-24%2F16488446_374931669541595_5898655677135454208_n.jpg%3Foe%3D5BF013ED%26oh%3D37943d9323c80f9b1e736278a50cd2ad&t=l&u=966554133374%40c.us&i=1449570166"/>
 	<meta name="og:site_name" content="iplatform"/>
 	<meta name="og:description" content=" مؤسسة تقنية ريادية يقوم عليها نخبة من المتخصصين الأكاديمين ورواد الأعمال لإحداث التكامل بين التنظير والتأثير في منصة واحدة"/>
 	<meta name="fb:page_id" content="43929265776 " />
