@@ -243,7 +243,15 @@ a.navbar-brand {
 	transition: all 0.5s ease-in-out;
 
 }
+.dropdown-menu {
+	position: relative;
+}
+.navbar-fixed-bottom .navbar-collapse,
+ .navbar-fixed-top .navbar-collapse {
+    max-height: 550px;
+	}
 .navbar-right .dropdown-menu {
+
 	background: #015fc1;
 }
 .dropdown-menu>li>a {
