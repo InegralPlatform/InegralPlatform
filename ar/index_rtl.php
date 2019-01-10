@@ -2,8 +2,6 @@
 <?php include('header_rtl.php'); ?>
 
 
-
-
 	<!-- Start Navbar Section -->
     <?php include('navbar_section_rtl.php');?>
 	<!-- End Navbar Section -->
