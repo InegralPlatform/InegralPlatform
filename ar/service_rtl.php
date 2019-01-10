@@ -19,9 +19,10 @@
 						</div></a>
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
-						<a href="#"><div class="icon three"><img src="../images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn">
-							<h4>إنترنت الأشياء</h4>
-							<p>إن إنترنت الأشياء أكبر مما يمكن لأي شخص أن يتخيله بناء على الاتصال المتزايد بالماكينة إلى الماكينة المبني على أجهزة الحوسبة السحابية وأجهزة جمع البيانات. سيصبح كل شيء في حياتنا "ذكيًا" تلقائيًا بسبب اتصالاته المحمولة والظاهرية والفورية.</p>
+						<a href="pages/webDesign.php"><div class="icon three"><img src="../images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn">
+							<h4>تصميم وبرمجة مواقع الويب</h4>
+							<p>البساطة هي الأساس الذي يعتمد عليه منشئ مواقع الإنترنت وصفحات الإستقبال الأونلاين. سوف نساعدك على إنشاء مواقع إلكترونية متجاوبة واحترافية وصفحات استقبال مباشرة من متصفحك. لا تحتاج إلى مهارات في الترميز
+                        </p>
 						</div></a>
 					</div>
 				</div>
