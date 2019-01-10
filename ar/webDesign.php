@@ -72,7 +72,20 @@
 	  </div>
       </div>
 	</div>
+
+	<div class="row">
+	 <div class="col-xs-6">
+	  <img src="../svgIcons/website-maker-illustration2.svg">
+	 </div>
+	 <div class="col-xs-6 text-center">
+        
+		 <button type="button" class="btn btn-info btn-lg">انشىء موقعك الالكترونى الان</button>
+	 </div>
+	</div>
 </div>
+
+
+
 		<!--Start Footer section-->
 		<?php include('footer_section_rtl.php');?>
 	<!-- End Footer Section -->
