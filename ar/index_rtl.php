@@ -62,6 +62,7 @@
 	<!-- Start Footer Section -->
  <?php include('contact_form_rtl.php');?>
 	<!--Design  -->
+	 <?php include('footer_section2_rtl.php');?>
 	<!--Start Footer section-->
  <?php include('footer_section_rtl.php');?>
 	<!-- End Footer Section -->
