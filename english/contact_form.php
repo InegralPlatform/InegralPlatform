@@ -12,14 +12,14 @@
                  Treat yourself completely as if you were in your home </p>
 					<ul>
 								<li>
-									<img src="images/phone.png" class="img-responsive" alt="phone.png"><p> + 0554133374
+									<img src="../images/phone.png" class="img-responsive" alt="phone.png"><p> + 0554133374
 
 
 								</li>
 								<li>
-									<img src="images/distance.png" class="img-responsive" alt="phone.png"><p> Anas Ibn Malek St., Riyadh</p> </li>
+									<img src="../images/distance.png" class="img-responsive" alt="phone.png"><p> Anas Ibn Malek St., Riyadh</p> </li>
 								<li>
-									<img src="images/email.png" class="img-responsive" alt="phone.png"> <p>Hallo@iPlatform.co </p></li>
+									<img src="../images/email.png" class="img-responsive" alt="phone.png"> <p>Hallo@iPlatform.co </p></li>
 							</ul>
 					</div></div>
 

@@ -62,7 +62,7 @@
 	<!-- Start Footer Section -->
  <?php include('contact_form.php');?>
 	<!--Design  -->
-	 <?php include('footer_section2.php');?>
+	 
 	<!--Start Footer section-->
  <?php include('footer_section.php');?>
 	<!-- End Footer Section -->

@@ -70,20 +70,7 @@
 	<meta name="disqus" content=""/>
 	<meta name="uservoice" content=""/>
 	<meta name="mixpanel" content=""/>
-	<!-- Apple Meta Tags -->
-	<!-- <meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black">
-	<meta name="format-detection" content="telephone=no">
-	<meta name= "viewport" content = "width = 320, initial-scale = 2.3, user-scalable = no">
-	<meta name= "viewport" content = "width = device-width">
-	<meta name = "viewport" content = "initial-scale = 1.0">
-	<meta name = "viewport" content = "initial-scale = 2.3, user-scalable = no">
-	<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
-	<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
-	<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
-	<link rel="apple-touch-startup-image" href="/startup.png">
-	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" /> -->
-	<!-- Internet Explorer Meta Tags -->
+
 	<meta http-equiv="Page-Enter" content="RevealTrans(Duration=2.0,Transition=2)" />
 	<meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0,Transition=12)" />
 	<meta name="mssmarttagspreventparsing" content="true">
@@ -101,25 +88,25 @@
 
 	<link href="URL" rel="canonical">
 	<!-- FontAwesome -->
-	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
 	<!-- googlefonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:800" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<!-- jquery Ui For Date-Picker in Home Form -->
-	<link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
-	<link href="css/magnific-popup.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href=../"css/jquery-ui.css">
+	<link href="../css/magnific-popup.css" rel="stylesheet">
 	<!--fancybox  -->
-	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css">
+	<link rel="stylesheet" type="text/css" href="../css/jquery.fancybox.min.css">
 	<!-- Wow Plugin-->
-	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="../css/animate.css">
 	<!-- owl carousel -->
-	<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" type="text/css" href="../css/owl.carousel.min.css">
 	<!-- Bootstrap-css -->
-	<link rel="stylesheet" href="Bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css">
 	<!--flickity.min.css  -->
-	<link rel="stylesheet" href="css/flickity.min.css">
+	<link rel="stylesheet" href="../css/flickity.min.css">
 	<!-- Main style -->
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
 	 </head>
 
 	<body data-spy="scroll" data-target="#bs-example-navbar-collapse-1">

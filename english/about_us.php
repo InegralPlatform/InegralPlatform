@@ -9,7 +9,7 @@
 				<div class="col-md-12">
 					<p class="benefit  wow fadeInRight" data-wow-offset="100" data-wow-delay=".2s">Quick Benefits</p>
 					<br>
-					
+
 					<div class=" col-lg-5 col-md-12 col-sm-12 about-1  wow fadeInRight" data-wow-offset="100" data-wow-delay=".2s">
 						<p class="next"> <i class="fa fa-align-right" aria-hidden="true"></i> Qualified Staff of Developers</p>
 						<p class="next"> <i class="fa fa-align-right" aria-hidden="true"></i> 24x7 Emergency Services</p>
@@ -23,7 +23,7 @@
 				<div class="row third-row">
 						<div class=" col-lg-9 col-md-12 col-sm-12 col-xs-12 open-container ">
 							<div class="content-about">
-								 <img src="images/24-hours-phone-service.png" alt="four.png">
+								 <img src="../images/24-hours-phone-service.png" alt="four.png">
 								 	 <p class="title ">Working Hours </p>
 								 <div class=" cases">
 									<br>
@@ -37,7 +37,7 @@
 										<p class="day">Tuesday</p> <span class="time">11.00 – 17.00</span></div><br>
 										<div class="time-div">
 										<p class="day">Wednesday</p> <span class="time">9.00 – 15.00</span></div><br>
-										
+
 										<div class="time-div">
 										<p class="day">Thursday</p> <span class="time">10.30 – 18.00</span></div><br>
 									  </div>
@@ -46,12 +46,12 @@
 						</div>
 				</div>
 					 <div class="col-md-5  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
-					<img src="images/44.png" class="img-responsive" alt="form.jpg">
+					<img src="../images/44.png" class="img-responsive" alt="form.jpg">
 					<div class=" form">
 				<p class="titles text-center">Make An Appointment</p>
 						<div class="col-sm-12 ">
 							<input type="text" class="form-control" name="name" id="name" placeholder=" Name" /> </div>
-						
+
 						<div class="col-sm-12">
 
 							<input type="text" class="form-control" name="email" id="email" placeholder=" Email" />
@@ -62,8 +62,8 @@
 							<input type="text" class="form-control" placeholder="Select-Date" id="datepicker"> </div>
 						<button class="form-control btn-primary center-block" id="Appointment">Register</button>
 					</div>
-				</div> 
-				
+				</div>
+
 			</div>
-			
+
 		</div>

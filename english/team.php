@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="our-team  wow fadeInRight" data-wow-offset="100" data-wow-delay=".2s">
-						<div class="social-media"> <img src="images/13.jpg" alt="">
+						<div class="social-media"> <img src="../images/13.jpg" alt="">
 							<div class="social_media_team">
 								<ul class="team_social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -34,7 +34,7 @@
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="our-team  wow fadeInDown" data-wow-offset="100" data-wow-delay=".2s">
-						<div class="social-media"> <img src="images/34.jpg" alt="">
+						<div class="social-media"> <img src="../images/34.jpg" alt="">
 							<div class="social_media_team">
 								<ul class="team_social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -49,7 +49,7 @@
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="our-team  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
-						<div class="social-media"> <img src="images/35.jpg" alt="">
+						<div class="social-media"> <img src="../images/35.jpg" alt="">
 							<div class="social_media_team">
 								<ul class="team_social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
