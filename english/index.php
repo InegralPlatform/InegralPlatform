@@ -38,7 +38,7 @@
 
 	<!--Logos  -->
 	<div class="logo">
-	<?php include('Partners.php');?>
+	<?php //include('Partners.php');?>
 	</div>
 	<!--Logos  -->
 
@@ -49,7 +49,7 @@
 	<!--End testimonial  -->
 	<!-- start Team Section -->
 	<div class="team" id="team">
-		<?php include('team.php');?>
+		<?php //include('team.php');?>
 	</div>
 	<!-- end Team Section -->
 
@@ -62,7 +62,7 @@
 	<!-- Start Footer Section -->
  <?php include('contact_form.php');?>
 	<!--Design  -->
-	 
+
 	<!--Start Footer section-->
  <?php include('footer_section.php');?>
 	<!-- End Footer Section -->

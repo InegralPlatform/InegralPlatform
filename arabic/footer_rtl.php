@@ -1,6 +1,6 @@
 	<!-- scripts -->
 	<!-- jquery -->
-	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/jquery3.2.1.min.js"></script>
 	<!-- jquery Ui For Date-Picker in Home Form -->
 	<script src="js/jquery-ui.js"></script>
 	<!--particles.js  -->
