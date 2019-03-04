@@ -1,56 +1,56 @@
 
 
-<?php  require_once('en/header.php'); ?>
-<?php include('en/form_process.php'); ?>
-
+<?php include('arabic/header_rtl.php'); ?>
 
 
 	<!-- Start Navbar Section -->
-    <?php include('en/navbar_section.php');?>
+    <?php include('arabic/navbar_section_rtl.php');?>
 	<!-- End Navbar Section -->
 	<!-- Start Header Section -->
 	<div class="head" id="home">
-		<?php include('en/header_section.php');?>
+		<?php include('arabic/header_section_rtl.php');?>
 	</div>
 	<!-- End Header Section -->
 	<!-- Start About Us Section -->
 	<div class="about " id="about">
-     <?php include('en/about_us.php');?>
+     <?php include('arabic/about_us_rtl.php');?>
 	</div>
 	<!-- End About Us Section -->
 	<!-- start countup -->
 	<div class="counters" id="counter">
-		<?php include('en/countup.php');?>
+		<?php include('arabic/countup_rtl.php');?>
 	</div>
 	<!-- end countup -->
 	<!-- start Our service -->
 	<div class="service" id="service" data-wow-offset="250">
-		<?php include('en/service.php');?>
+		<?php include('arabic/service_rtl.php');?>
 	</div>
 	<!-- end Our service -->
 	<!-- Start Video Section -->
 	<div class="touch-all">
-		<?php include('en/video.php');?>
+		<?php include('arabic/video_rtl.php');?>
 	</div>
 	<!-- End Video Section -->
 
+	<!--logos  -->
+	<div class="logos"> </div>
+	<!--End Logos  -->
 
 
-
-	<!--Logos-->
+	<!--Logos  -->
 	<div class="logo">
-	 <?php include('en/Partners.php');?>
+	<?php include('arabic/Partners_rtl.php');?>
 	</div>
-	<!--Logos-->
+	<!--Logos  -->
 
 	<!--Start testimonial  -->
 	<div class="testimonials">
-		<?php include('en/testimonials.php');?>
+		<?php include('arabic/testimonials_rtl.php');?>
 	</div>
 	<!--End testimonial  -->
 	<!-- start Team Section -->
 	<div class="team" id="team">
-		<?php include('en/team.php');?>
+		<?php include('arabic/team_rtl.php');?>
 	</div>
 	<!-- end Team Section -->
 
@@ -61,9 +61,10 @@
 
 
 	<!-- Start Footer Section -->
- <?php include('en/contact_form.php');?>
+ <?php include('arabic/contact_form_rtl.php');?>
 	<!--Design  -->
+	 
 	<!--Start Footer section-->
- <?php include('en/footer_section.php');?>
+ <?php include('arabic/footer_section_rtl.php');?>
 	<!-- End Footer Section -->
-<?php include('en/footer.php');?>
+<?php include('arabic/footer_rtl.php');?>

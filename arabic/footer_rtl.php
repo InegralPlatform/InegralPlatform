@@ -1,10 +1,10 @@
 	<!-- scripts -->
 	<!-- jquery -->
-	<script src="../js/jquery-3.2.1.min.js"></script>
+	<script src="js/jquery-3.2.1.min.js"></script>
 	<!-- jquery Ui For Date-Picker in Home Form -->
-	<script src="../js/jquery-ui.js"></script>
+	<script src="js/jquery-ui.js"></script>
 	<!--particles.js  -->
-	<script src="../js/particles.js"></script>
+	<script src="js/particles.js"></script>
 	<script>
 		particlesJS("particles-js", {
 			"particles": {
@@ -119,26 +119,26 @@
 		});
 	</script>
 	<!--testimonial  -->
-	<script src="../js/flickity.pkgd.min.js"></script>
+	<script src="js/flickity.pkgd.min.js"></script>
 	<!--Date-picker  -->
-	<script src="../js/jquery-ui.js"></script>
+	<script src="js/jquery-ui.js"></script>
 	<!-- Bootstrap script -->
-	<script src="../Bootstrap/js/bootstrap.min.js"></script>
+	<script src="Bootstrap/js/bootstrap.min.js"></script>
 	<!-- Bootstrap -collapse -->
-	<script src="../js/bootstrap-collapse.js"></script>
+	<script src="js/bootstrap-collapse.js"></script>
 	<!--gallery  -->
-	<script src="../js/jquery.mixitup.min.js"></script>
-	<script src="../js/masonry.pkgd.js"></script>
-	<script src="../js/jquery.fancybox.min.js"></script>
-	<script src="../js/isotope.pkgd.min.js"></script>
-	<script src="../js/jquery.magnific-popup.min.js"></script>
-	<script src="../js/owl.carousel.min.js"></script>
-	<script src="../js/wow.js"></script>
+	<script src="js/jquery.mixitup.min.js"></script>
+	<script src="js/masonry.pkgd.js"></script>
+	<script src="js/jquery.fancybox.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/wow.js"></script>
 	<script>
 		new WOW().init();
 	</script>
 	<!-- main file -->
-	<script src="../js/main.js"></script>
+	<script src="js/main.js"></script>
 </body>
 
 </html>
