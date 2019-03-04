@@ -4,7 +4,7 @@
 	<!-- jquery Ui For Date-Picker in Home Form -->
 	<script src="js/jquery-ui.js"></script>
 	<!--particles.js  -->
-	<script src="js/particles.js"></script>
+	<!-- <script src="js/particles.js"></script> -->
 	<script>
 		particlesJS("particles-js", {
 			"particles": {
