@@ -25,7 +25,7 @@
 				<div class="row third-row">
 						<div class=" col-md-12 col-sm-12 col-xs-12 open-container pull-left ">
 							<div class="content-about">
-								 <img src="../images/24-hours-phone-service.png" alt="four.png">
+								 <img src="images/24-hours-phone-service.png" alt="four.png">
 								 	 <p class="title ">ســاعــات العمل </p>
 								 <div class=" cases">
 									<br>
@@ -48,7 +48,7 @@
 						</div>
 				</div>
 					 <div class="col-lg-5 col-md-12  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
-					<img src="../images/44.png" class="img-responsive" alt="form.jpg">
+					<img src="images/44.png" class="img-responsive" alt="form.jpg">
 					<div class=" form">
 				<p class="titles text-center"> احجز موعد </p>
 						<div class="col-sm-12 ">

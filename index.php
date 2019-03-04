@@ -39,7 +39,7 @@
 
 	<!--Logos  -->
 	<div class="logo">
-	<?php include('arabic/Partners_rtl.php');?>
+	<?php //include('arabic/Partners_rtl.php');?>
 	</div>
 	<!--Logos  -->
 
@@ -50,7 +50,7 @@
 	<!--End testimonial  -->
 	<!-- start Team Section -->
 	<div class="team" id="team">
-		<?php include('arabic/team_rtl.php');?>
+		<?php //include('arabic/team_rtl.php');?>
 	</div>
 	<!-- end Team Section -->
 
@@ -63,7 +63,7 @@
 	<!-- Start Footer Section -->
  <?php include('arabic/contact_form_rtl.php');?>
 	<!--Design  -->
-	 
+
 	<!--Start Footer section-->
  <?php include('arabic/footer_section_rtl.php');?>
 	<!-- End Footer Section -->

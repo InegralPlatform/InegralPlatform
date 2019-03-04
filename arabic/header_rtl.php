@@ -95,7 +95,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<!-- jquery Ui For Date-Picker in Home Form -->
 	<link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
-	<link href="../css/magnific-popup.css" rel="stylesheet">
+	<link href="css/magnific-popup.css" rel="stylesheet">
 	<!--fancybox  -->
 	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css">
 	<!-- Wow Plugin-->

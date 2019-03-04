@@ -12,12 +12,12 @@
 				<p class="title"> تعامل بحرية كاملة كأنك فى منزلك يسعدنا ان  نلبى جميع احتياجاتكم</p>
 					<ul>
 								<li>
-								<img src="../images/phone.png" class="img-responsive" alt="phone.png">	<p> + 0554133374</p>
+								<img src="images/phone.png" class="img-responsive" alt="phone.png">	<p> + 0554133374</p>
 								</li>
 								<li>
-								<img src="../images/distance.png" class="img-responsive" alt="phone.png">	<p> انس بن مالك ,الرياض,المملكة العربية السعودية</p> </li>
+								<img src="images/distance.png" class="img-responsive" alt="phone.png">	<p> انس بن مالك ,الرياض,المملكة العربية السعودية</p> </li>
 								<li>
-								<img src="../images/email.png" class="img-responsive" alt="phone.png"> <p>Hallo@iPlatform.co </p></li>
+								<img src="images/email.png" class="img-responsive" alt="phone.png"> <p>Hallo@iPlatform.co </p></li>
 							</ul>
 					</div></div>
 

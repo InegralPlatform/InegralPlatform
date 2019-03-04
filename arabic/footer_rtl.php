@@ -5,7 +5,7 @@
 	<script src="js/jquery-ui.js"></script>
 	<!--particles.js  -->
 	<!-- <script src="js/particles.js"></script> -->
-	<script>
+	<!-- <script>
 		particlesJS("particles-js", {
 			"particles": {
 				"number": {
@@ -117,7 +117,7 @@
 			}
 			, "retina_detect": true
 		});
-	</script>
+	</script> -->
 	<!--testimonial  -->
 	<script src="js/flickity.pkgd.min.js"></script>
 	<!--Date-picker  -->

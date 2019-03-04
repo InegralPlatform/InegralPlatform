@@ -527,7 +527,7 @@ button.btn-primary {
     border-radius: 0px;
     width: 144px;
     height: 51px;
-    background: url(../images/navbar.jpeg) no-repeat center center fixed;
+    /* background: url(../images/navbar.jpeg) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
