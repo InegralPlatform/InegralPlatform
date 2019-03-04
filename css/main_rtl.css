@@ -86,8 +86,19 @@ nav.navbar {
 
 
 }
-
-
+.navbar-container .lang-btn{
+	top: 5px;
+	width: 100px;
+	height: 39px;
+	border: none
+}
+.btn-primary:hover{
+	background-color:#0a6ace
+}
+.navbar-container .lang-btn a{
+	color: #FFF;
+	text-decoration: none;
+}
 @media (max-width: 420px) {
 	a.navbar-brand {
 		font-size: 23px ;

@@ -16,13 +16,13 @@
 					<li><a href="#team">فريق العمل</a></li>
 					<li><a href="#contact">تواصل معنا</a></li>
 					<li><a href="blog.php">مدونه</a></li>
-					<li class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"><a href="#">  اللغة <span class="caret"></span></a></li>
+					<!-- <li class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"><a href="#">  اللغة <span class="caret"></span></a></li>
 					<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 						<li><a href="#"> <img src="images/6-6.jpg"> العربية</a></li>
 						<li><a href="../index.php"> <img src="images/1-1.jpg"> English</a></li>
-					
-					</ul>
 
+					</ul> -->
+        	<button class="lang-btn form-control btn-primary center-block " id="Appointment"><a href="english"> <img src="images/1-1.jpg"> English</a></button>
 				</ul>
 			</div>
 		</div>
