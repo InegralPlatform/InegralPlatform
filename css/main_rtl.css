@@ -86,19 +86,7 @@ nav.navbar {
 
 
 }
-.navbar-container .lang-btn{
-	top: 5px;
-	width: 100px;
-	height: 39px;
-	border: none
-}
-.btn-primary:hover{
-	background-color:#0a6ace
-}
-.navbar-container .lang-btn a{
-	color: #FFF;
-	text-decoration: none;
-}
+
 @media (max-width: 420px) {
 	a.navbar-brand {
 		font-size: 23px ;
@@ -1304,7 +1292,7 @@ div.footer textarea.focus {
 
 div.footer .box-1 {
 	/*Edit Rtlt*/
-  
+
 	padding-right: 15px;
 	box-shadow: 0px 0px 0px 0px rgba(153, 153, 153, 0.5);
 	direction: rtl;
