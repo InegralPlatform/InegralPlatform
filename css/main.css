@@ -466,17 +466,18 @@ div.about .cases {
 
 div.content-about {
     display: block;
-    background: url(../images/doc.jpg) no-repeat;
+    background: url(../images/doc.jpg) ;
     box-shadow: inset 0 0 0 2000px rgba(0, 42, 196, 0.79);
     background-position: left top;
     border: 0px !important;
     padding-bottom: 27px;
     padding-top: 10px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
     color: #fff !important;
+
 }
 
 div.content-about img {
@@ -1157,7 +1158,7 @@ div.logo .container {
 /*****************************/
 
 div.testimonials {
-    background: url(../images/20.jpg) no-repeat center center fixed !important;
+    background: url(../images/20.jpg) no-repeat center center fixed ;
     box-shadow: inset 32px 34px 33px 2000px rgba(8, 8, 8, 0.85);
     -webkit-background-size: cover;
     -moz-background-size: cover;

@@ -370,7 +370,7 @@ div.about p.title {
 	position: relative;
 	top: 20px;
 	display: inline-block;
-
+    right: 95px;
 }
 
 div.about span.time {
@@ -411,7 +411,7 @@ div.about .cases {
 
 div.content-about {
 
-	background: url(../images/doc.jpg) no-repeat;
+
 	box-shadow: inset 2000px 0 0 0 rgba(0, 42, 196, 0.79);
 
 	/* Edit Rtl */
@@ -422,7 +422,7 @@ div.content-about {
 div.content-about img {
 	/* Edit Rtl */
 	margin-Right: 11px;
-
+    margin-left: 50px;
 }
 
 
@@ -466,7 +466,7 @@ button.btn-primary {
 	border-radius: 0px;
 	width: 144px;
 	height: 51px;
-	background: url(../../images/navbar.jpeg) no-repeat center center fixed;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -518,7 +518,7 @@ div.count {
 
 div.counters {
 	/* Edit Rtl */
-	background: url(../../images/20.jpg) no-repeat center center fixed ;
+
 	box-shadow: inset 32px 34px 33px 2000px rgba(8, 8, 8, 0.85);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -609,7 +609,7 @@ div.service div.icon:hover {
 .video {
 	/*Edit rtl*/
 
-	background: url(../../images/60.jpg) no-repeat center center fixed ;
+
 	box-shadow: inset 2000px 33px 34px 320px rgba(0, 42, 196, 0.58);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1064,7 +1064,7 @@ div.logo .container {
 /*****************************/
 
 div.testimonials {
-	background: url(../../images/20.jpg) no-repeat center center fixed !important;
+	
 	box-shadow: inset 32px 34px 33px 2000px rgba(8, 8, 8, 0.85);
 
 
@@ -1328,7 +1328,7 @@ div .footer .touch-us {
 }
 div.data-contact {
 	/*Edit Rtl*/
-	background: url(images/contact.jpg);
+
 	background-position: center;
 	border: 0px !important;
 	box-shadow: inset 0 0 0 2000px rgba(0, 96, 196, 0.82);
