@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="en">
-
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Iplatform</title>
-
 	<meta name="keywords" content="Iplatform, tags"/>
 	<meta name="description" content=" Is leading technology institution to be donated by academic specialists and entrepreneurs to integrate endoscopy and impact into a single platform"/>
 	<meta name="subject" content="We aspire to the integrated platform to provide all the technical solutions required by our customers from websites to artificial intelligence solutions and we enrich the Arabic content in accordance with the values ​​and needs of our communities">
@@ -51,10 +49,8 @@
 	<meta name="og:region" content="Anas Ibn Malek St., Riyadh"/>
 	<meta name="og:postal-code" content=""/>
 	<meta name="og:country-name" content="Saudi Arabia"/>
-
 	<meta property="og:type" content="Business"/>
 	<meta property="og:points" content=""/>
-
 	<meta property="og:video" content="" />
 	<meta property="og:video:height" content="640" />
 	<meta property="og:video:width" content="385" />
@@ -63,8 +59,6 @@
 	<meta property="og:video:type" content="video/mp4" />
 	<meta property="og:video" content="http://www.iplatform.co" />
 	<meta property="og:video:type" content="text/html" />
-
-
 	<!-- Use custom meta tags to store data that you need in javascript, instead of hard-coding that data into your javascript. I store my Google Analytics code in meta tags. Here's some examples: -->
 	<meta name="google-analytics" content="1-AHFKALJ"/>
 	<meta name="disqus" content=""/>
@@ -84,7 +78,7 @@
 	<meta name="msapplication-task" content="name=The Big List;action-uri=/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/;icon-uri=/images/list_links.ico" />
 	<meta name="msapplication-task" content="name=jQuery Posts;action-uri=/category/jquery/;icon-uri=/images/jquery.ico" />
 	<meta name="msapplication-task" content="name=Start Developing;action-uri=/category/javascript/;icon-uri=/images/script.ico" />
-	<link rel="shortcut icon" href="/images/favicon.ico" />
+	<link rel="shortcut icon" href="../images/favicon.ico" />
 
 	<link href="URL" rel="canonical">
 	<!-- FontAwesome -->

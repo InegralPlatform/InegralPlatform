@@ -85,7 +85,7 @@
 	<meta name="msapplication-task" content="name=The Big List;action-uri=/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/;icon-uri=/images/list_links.ico" />
 	<meta name="msapplication-task" content="name=jQuery Posts;action-uri=/category/jquery/;icon-uri=/images/jquery.ico" />
 	<meta name="msapplication-task" content="name=Start Developing;action-uri=/category/javascript/;icon-uri=/images/script.ico" />
-	<link rel="shortcut icon" href="../images/favicon.ico" />
+	<link rel="shortcut icon" href="images/favicon.ico" />
 
 	<link href="URL" rel="canonical">
 	<!-- FontAwesome -->
