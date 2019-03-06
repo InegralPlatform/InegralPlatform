@@ -1,7 +1,10 @@
 /**************************/
       /* General */
 /**************************/
-
+@font-face {
+  font-family: 'mbc';
+  src: url('mbc.ttf');
+}
 body {
 	font-size: 15px;
 	font-style: normal;
@@ -11,9 +14,9 @@ body {
 
 p {
 	color: rgba(51, 51, 51, 0.89);
-	font-family: 'Open Sans';
+	font-family: 'mbc','Open Sans';
 	line-height: 1.9em;
-	font-size: 15px;
+	font-size: 18px;
 }
 h1{
 	font-size: 33px;
@@ -43,7 +46,7 @@ h4,
 h3,
 h1,
 h5 {
-	font-family: 'Montserrat', sans-serif;
+	font-family:  'mbc','Montserrat', sans-serif;
 	direction: rtl;
 }
 
@@ -57,7 +60,7 @@ textarea,
 div.footer li,
 div.about input,
 span.post {
-	font-family: 'Open Sans';
+	font-family:  'mbc','Open Sans';
 	direction: rtl;
 }
 
@@ -166,7 +169,8 @@ a.navbar-brand img {
 
  .navbar-default .navbar-nav>li>.active>a, .navbar-default .navbar-nav>li>.active>a:focus, .navbar-default .navbar-nav>li>.active>a:hover , .navbar-default .navbar-nav>li>a{
 
-
+font-family: 'mbc';
+font-size: 18px
 }
 
  .navbar-default .navbar-nav>li>a {
@@ -267,6 +271,7 @@ div.head h1 {
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
+	    font-family: 'mbc';
 }
 
 
@@ -1293,7 +1298,7 @@ div.footer textarea.focus {
 div.footer .box-1 {
 	/*Edit Rtlt*/
 
-	padding-right: 15px;
+	padding-right: 37px;
 	box-shadow: 0px 0px 0px 0px rgba(153, 153, 153, 0.5);
 	direction: rtl;
 }
