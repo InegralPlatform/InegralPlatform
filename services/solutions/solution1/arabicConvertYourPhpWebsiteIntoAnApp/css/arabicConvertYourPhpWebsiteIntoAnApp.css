@@ -1,0 +1,126 @@
+div.about div.form,
+.navbar-default.shrink,
+div.social-links,
+div.footer .btn-default,
+.dropdown-menu {
+    background: #FAAC19;
+}
+
+.row {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+nav.navbar, button.btn-primary{
+      background: #faac19;
+}
+.btn-primary:hover{
+  background-color: #efaa29
+}
+div.about p.next i,
+.counter,
+hr,
+div.head h1 span {
+    color: #FAAC19;
+}
+
+.navbar-header .logo {
+    background: #9fce63
+}
+
+hr {
+    border-top: 3px solid #FAAC19;
+}
+
+div.footer .form-control {
+    border-bottom-color: #FAAC19
+}
+
+p.middle {
+    border-right-color: #FAAC19
+}
+
+div.about div.form {
+    background-image: none;
+}
+
+div.data-contact,
+div.content-about {
+    box-shadow: inset 0 0 0 2000px #FAAC19;
+}
+
+.android .icon {
+    background-color: #FAAC19!important;
+    border-radius: 43px 80px 64px 70px!important;
+}
+
+div.service h4 {
+    color: #FFF;
+    font-size: 15px;
+}
+
+.android-2 .icon {
+    background-color: #FFF!important
+}
+
+.android-2 h4 {
+    color: #444444!important
+}
+
+.steps .col-md-2 {
+    background: #FAAC19;
+    border: 2px dashed #fff;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.steps img {
+    width: 80px;
+    height: 80px;
+    margin: 20px auto 50px;
+}
+
+.steps h1 {
+    padding: 20px
+}
+
+.steps p {
+    font-weight: bold;
+    color: #444444;
+    line-height: 1.2;
+    min-height: 40px;
+    font-size: 18px;
+}
+
+.steps p:first-of-type {
+    margin-top: 40px
+}
+
+input::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #FAAC19!important
+    /* Firefox */
+}
+
+input:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #FAAC19!important;
+}
+
+input::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #FAAC19!important
+}
+
+div.footer textarea::placeholder,
+div.footer textarea.focus::placeholder {
+    color: #FAAC19!important
+}
+
+input[type="textarea"]::-webkit-input-placeholder {
+    color: #FAAC19!important;
+}
+
+div.social-links ul li:hover{
+    background: #cc890b;
+    border: 1px solid #cc890b;
+}

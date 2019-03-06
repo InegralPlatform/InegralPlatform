@@ -10,12 +10,13 @@
 			<div class="collapse navbar-collapse dropdown" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-left">
 					<li><a href="#about">من نكون</a></li>
-					<li><a href="#service"><span>خدمتنا</span></a></li>
-					<li><a href="#department">أقسام العمل</a></li>
-					<li><a href="#solution">أعمالنا</a></li>
-					<li><a href="#team">فريق العمل</a></li>
+					<li><a href="#service"><span>الخدمات</span></a></li>
+						<li><a href="#solutions"><span>الحلول</span></a></li>
+					<!-- <li><a href="#department">أقسام العمل</a></li> -->
+					<!-- <li><a href="#solution">أعمالنا</a></li> -->
+					<!-- <li><a href="#team">فريق العمل</a></li> -->
 					<li><a href="#contact">تواصل معنا</a></li>
-					<li><a href="blog.php">مدونه</a></li>
+					<!-- <li><a href="blog.php">مدونه</a></li> -->
 					<!-- <li class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"><a href="#">  اللغة <span class="caret"></span></a></li>
 					<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 						<li><a href="#"> <img src="images/6-6.jpg"> العربية</a></li>
