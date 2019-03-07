@@ -6,7 +6,7 @@
 					<div class="col-md-4 col-sm-12 col-xs-12  center-block ">
 						<a href="ERP"><div class="icon one ">
 							<!-- <img src="images/xcode.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11"> أنظمة ادارة الموارد(ERP)     </h4>
+							<h4 class="service-11"><big>1</big><br /> أنظمة ادارة الموارد(ERP)     </h4>
 
 						</div><a href="#"></a>
 					</div>
@@ -14,7 +14,7 @@
 					<a href="#">
 					  <div class="icon two">
 							<!-- <img src="images/android.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4>تصميم وبرمجة تطبيقات الجوال</h4>
+							<h4><big>2</big><br />تصميم وبرمجة تطبيقات الجوال</h4>
 
 
 						</div></a>
@@ -22,7 +22,7 @@
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<a href="webDesign.php"><div class="icon three">
 							<!-- <img src="images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4>تصميم وتطوير مواقع الويب(Wep Developing) </h4>
+							<h4><big>3</big><br />تصميم وتطوير مواقع الويب(Wep Developing) </h4>
 
 						</div></a>
 					</div>
@@ -36,7 +36,7 @@
 					<div class="col-md-4  col-sm-12 col-xs-12 center-block ">
 					  <a href="#">	<div class="icon four">
 							<!-- <img src="images/big-data.png" alt="tooth.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11">الموشن جرافيك </h4>
+							<h4 class="service-11"><big>4</big><br />الموشن جرافيك </h4>
 
 
 						</div></a>
@@ -44,14 +44,14 @@
 					<div class="col-md-4   col-sm-12 col-xs-12 center-block ">
 						<a href="#"><div class="icon five">
 							<!-- <img src="images/smartphone.png" alt="family.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11">تطبيقات الويب التقدمية (PWA)      </h4>
+							<h4 class="service-11"><big>5</big><br />تطبيقات الويب التقدمية (PWA)      </h4>
 
 						</div></a>
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<a href="#"><div class="icon six">
 							<!-- <img src="images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11">(Digital Markting)التسويق الرقمى</h4>
+							<h4 class="service-11"><big>6</big><br />(Digital Markting)التسويق الرقمى</h4>
 
 						</div></a>
 					</div>
