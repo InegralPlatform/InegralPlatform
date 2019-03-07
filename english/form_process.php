@@ -82,13 +82,17 @@ $headers = 'From: '.$email_from."\r\n".
 
 <!-- include your own success html here -->
 <html>
-<div class="jumbotron text-xs-center">
+ <body>
+
+   <div class="jumbotron text-xs-center">
   <h1 class="display-3">Thank You!</h1>
   <p class="lead"><strong>Please check your email</strong> for further instructions on how to complete your account setup.</p>
   <hr>
 
 
 </div>
+
+ </body>
 </html>
 <?php
 

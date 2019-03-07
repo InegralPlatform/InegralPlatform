@@ -21,12 +21,21 @@
 					  <div class="icon two">
 							<!-- <img src="images/android.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
 							<h4><big>2</big><br />تصميم وبرمجة تطبيقات الجوال</h4>
-
+							<!-- <p>
+								<ul>
+								<li>
+									تصميم وبرمجة تطبيقات الايفون
+								</li>
+							<li>
+								تصميم وبرمجة تطبيقات الاندرويد
+							</li>
+								</ul>
+							</p> -->
 
 						</div></a>
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
-						<a href="webDesign.php"><div class="icon three">
+						<a href="#"><div class="icon three">
 							<!-- <img src="images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn"> -->
 							<h4><big>3</big><br />تصميم وتطوير مواقع الويب(Wep Developing) </h4>
 
