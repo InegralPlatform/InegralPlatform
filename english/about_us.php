@@ -34,9 +34,9 @@
 							<input type="text" class="form-control" name="email" id="email" placeholder=" Email" />
 							 </div>
 						<div class="col-sm-12">
-							<input type="number" class="form-control" name="phone" id="phone" placeholder=" Number" /> </div>
+							<input type="number" class="form-control" name="phone" id="phone" placeholder=" Number of Service" /> </div>
 						<div class="col-sm-12">
-							<input type="text" class="form-control" placeholder="Select-Date" id="datepicker"> </div>
+							<input type="text" class="form-control" placeholder="Select-Date-time" id="datepicker"> </div>
 						<button class="form-control btn-primary center-block" id="Appointment">Register</button>
 					</div>
 				</div>
@@ -49,19 +49,19 @@
 								 <p class="title ">Working Hours </p>
 							 <div class=" cases">
 								<br>
+								<!-- <div class="time-div">
+									<p class="day">Saturday</p> <span class="time">10.00 – 21.00</span></div><br> -->
 								<div class="time-div">
-									<p class="day">Saturday</p> <span class="time">10.00 – 21.00</span></div><br>
+									<p class="day">Sunday</p> <span class="time">9.00 – 5.00</span></div><br>
 								<div class="time-div">
-									<p class="day">Sunday</p> <span class="time">9.50 – 14.00</span></div><br>
-								<div class="time-div">
-									<p class="day">Monday</p> <span class="time">11.50 – 16.00</span></div><br>
+									<p class="day">Monday</p> <span class="time">9.00 – 5.00</span></div><br>
 									<div class="time-div">
-									<p class="day">Tuesday</p> <span class="time">11.00 – 17.00</span></div><br>
+									<p class="day">Tuesday</p> <span class="time">9.00 – 5.00</span></div><br>
 									<div class="time-div">
-									<p class="day">Wednesday</p> <span class="time">9.00 – 15.00</span></div><br>
+									<p class="day">Wednesday</p> <span class="time">9.00 – 5.00</span></div><br>
 
 									<div class="time-div">
-									<p class="day">Thursday</p> <span class="time">10.30 – 18.00</span></div><br>
+									<p class="day">Thursday</p> <span class="time">9.00 – 5.00</span></div><br>
 									</div>
 								</div>
 						</div>

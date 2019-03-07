@@ -18,9 +18,9 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#about"> About</a></li>
 					<li><a href="#service"><span>Services</span></a></li>
-					<li><a href="#department">Departments</a></li>
+					<!-- <li><a href="#department">Departments</a></li>
 					<li><a href="#solution">Portfolio</a></li>
-					<li><a href="#team">Team</a></li>
+					<li><a href="#team">Team</a></li> -->
 					<li><a href="#contact">Contact</a></li>
 					<!--<li class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"><a href="#"> language <span class="caret"></span></a></li>
 					 <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
