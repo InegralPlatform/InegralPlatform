@@ -66,10 +66,18 @@
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<a href="#"><div class="icon six">
 							<!-- <img src="images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
+							<h4 class="service-11"><big>6</big><br />تصميم وبرمجة مواقع التسوق الالكترونى</h4>
+
+						</div></a>
+					</div>
+					<div class="col-md-4   col-sm-12 col-xs-12  center-block text-center">
+						<a href="#"><div class="icon six">
+							<!-- <img src="images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
 							<h4 class="service-11"><big>6</big><br />(Digital Markting)التسويق الرقمى</h4>
 
 						</div></a>
 					</div>
+
 				</div>
 			<!-- </div>
 </div> -->
