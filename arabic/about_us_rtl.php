@@ -24,24 +24,26 @@
 			</div>
 
 				</div>
-					 <div class="col-lg-5 col-md-12  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
-					<img src="images/44.png" class="img-responsive" alt="form.jpg">
-					<div class=" form">
-				<p class="titles text-center"> اطلب خدمة  </p>
-						<div class="col-sm-12 ">
-							<input type="text" class="form-control" name="name" id="name" placeholder=" الاسم" /> </div>
+	<form action="serviceProcess.php" method="post">
+		<div class="col-lg-5 col-md-12  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
+	 <img src="images/44.png" class="img-responsive" alt="form.jpg">
+	 <div class=" form">
+ <p class="titles text-center"> اطلب خدمة  </p>
+		 <div class="col-sm-12 ">
+			 <input type="text" class="form-control" name="name" id="name" placeholder=" الاسم" /> </div>
 
-						<div class="col-sm-12">
+		 <div class="col-sm-12">
 
-							<input type="text" class="form-control" name="email" id="email" placeholder=" الايميل" />
-							 </div>
-						<div class="col-sm-12">
-							<input type="number" class="form-control" name="phone" id="phone" placeholder=" رقم الخدمة " /> </div>
-						<div class="col-sm-12">
-							<input type="text" class="form-control" placeholder="حدد تاريخ و وقت الاتصال" id="datepicker"> </div>
-						<button class="form-control btn-primary center-block" id="Appointment">طلب</button>
-					</div>
+			 <input type="text" class="form-control" name="email" id="email" placeholder=" الايميل" />
 				</div>
+		 <div class="col-sm-12">
+			 <input type="number" class="form-control" name="numberOfService" id="phone" placeholder=" رقم الخدمة " /> </div>
+		 <div class="col-sm-12">
+			 <input type="text" class="form-control" placeholder="حدد تاريخ و وقت الاتصال" id="datepicker" name="time"> </div>
+		 <button class="form-control btn-primary center-block" id="Appointment">طلب</button>
+	 </div>
+ </div>
+	</form>
 
 			</div>
 			<div class="row third-row">

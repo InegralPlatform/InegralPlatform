@@ -7,7 +7,13 @@
 						<a href="ERP"><div class="icon one ">
 							<!-- <img src="images/xcode.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
 							<h4 class="service-11"><big>1</big><br /> أنظمة ادارة الموارد(ERP)     </h4>
+              <!-- <p>
+								<ul>
+									<li>
 
+									</li>
+								</ul>
+							</p> -->
 						</div><a href="#"></a>
 					</div>
 					<div class="col-md-4  col-sm-12 col-xs-12 center-block">
