@@ -11,7 +11,7 @@
           </div>
 
 
-				<form action="form_process_rtl.php" method="post">
+				<form action="arabic/form_process.php" method="post">
 						<div class="col-xs-12 col-md-6 col-sm-12 col-lg-6  touch-us pull-left">
 						<div class="box-1">
 							<div class="row">
@@ -28,11 +28,11 @@
                 </div>
 								<div class="col-md-12">
 									<div class="form-group">
-										<input name="email" value=" " type="email" class="form-control" id="youremail" placeholder=" الايميل الشخصى" required=""> </div>
+										<input name="email"  type="email" class="form-control" id="youremail" placeholder=" الايميل الشخصى" required=""> </div>
 								       <div class="error"></div>
 								 </div>
                  <div class="form-group">
-   								<input name="telephone" value="" type="tel" class="form-control" id="yoursubject" placeholder="الهاتف المحمول"  required="">
+   								<input name="telephone"  type="tel" class="form-control" id="yoursubject" placeholder="الهاتف المحمول"  required="">
                  </div>
 							</div>
 

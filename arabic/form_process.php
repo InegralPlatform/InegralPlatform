@@ -1,9 +1,9 @@
 <?php
 if(isset($_POST['email'])) {
-
+// Hallo@iPlatform.co
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "Hallo@iPlatform.co";
-    $email_subject = "شكرا لك  سنتصل بك قريبا ";
+    $email_subject = "Thank you we will call you  Soon !";
 
     function died($error) {
         // your error code can go here
@@ -81,9 +81,19 @@ $headers = 'From: '.$email_from."\r\n".
 ?>
 
 <!-- include your own success html here -->
+<html>
+ <body>
 
-Thank you for contacting us. We will be in touch with you very soon.
+   <div class="jumbotron text-xs-center">
+  <h1 class="display-3">Thank You!</h1>
+  <p class="lead"><strong>Please check your email</strong> for further instructions on how to complete your account setup.</p>
+  <hr>
 
+
+</div>
+
+ </body>
+</html>
 <?php
 
 }

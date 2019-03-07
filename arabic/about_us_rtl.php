@@ -24,22 +24,22 @@
 			</div>
 
 				</div>
-	<form action="serviceProcess.php" method="post">
+	<form action="arabic/serviceProcess.php" method="post">
 		<div class="col-lg-5 col-md-12  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
 	 <img src="images/44.png" class="img-responsive" alt="form.jpg">
 	 <div class=" form">
  <p class="titles text-center"> اطلب خدمة  </p>
 		 <div class="col-sm-12 ">
-			 <input type="text" class="form-control" name="name" id="name" placeholder=" الاسم" /> </div>
+			 <input type="text" class="form-control" name="name" id="name" placeholder=" الاسم" required="" /> </div>
 
 		 <div class="col-sm-12">
 
-			 <input type="text" class="form-control" name="email" id="email" placeholder=" الايميل" />
+			 <input type="text" class="form-control" name="email" id="email" placeholder=" الايميل" required=""/>
 				</div>
 		 <div class="col-sm-12">
-			 <input type="number" class="form-control" name="numberOfService" id="phone" placeholder=" رقم الخدمة " /> </div>
+			 <input type="number" min="1" max="6" class="form-control" name="numberOfService" id="phone" placeholder=" رقم الخدمة " required="" /> </div>
 		 <div class="col-sm-12">
-			 <input type="text" class="form-control" placeholder="حدد تاريخ و وقت الاتصال" id="datepicker" name="time"> </div>
+			 <input type="text" class="form-control" placeholder="حدد تاريخ و وقت الاتصال" id="datepicker" name="time" required=""> </div>
 		 <button class="form-control btn-primary center-block" id="Appointment">طلب</button>
 	 </div>
  </div>
