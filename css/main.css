@@ -326,7 +326,7 @@ div.head .content {
 
 @media screen and (max-width:477px) {
     div.head div.content h1 {
-        font-size: 30px;
+        font-size: 20px;
         -webkit-transition: all 0.5s ease-in-out;
         -moz-transition: all 0.5s ease-in-out;
         -o-transition: all 0.5s ease-in-out;
