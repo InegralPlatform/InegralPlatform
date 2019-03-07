@@ -33,24 +33,18 @@
 							<!-- <p>At present we are living in a world that is increasingly being driven by data. The way your data strategy and approach is being organized, including the choice of big data and cloud technologies, will be critical to your ability to compete in the future. Big data helps to integrate many types of data and data management with traditional data.</p> -->
 						</div>
 					</div>
-					<div class="col-md-4   col-sm-12 col-xs-12 center-block ">
-						<div class="icon five">
-							<!-- <img src="../images/smartphone.png" alt="family.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11"><big>5</big><br />Progressive Web Apps</h4>
-							<!-- <p>As an experienced cross-platform app development company, we concentrate on using frameworks like PhoneGap and Titanium to develop business and enterprise performance centric cross platform apps, that prove to be cost saving as one application runs over multiple platforms.</p> -->
-						</div>
-					</div>
+
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<div class="icon six">
 							<!-- <img src="../images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11"><big>6</big><br />E-Commerce Web Development</h4>
+							<h4 class="service-11"><big>5</big><br />E-Commerce Web Development</h4>
 							<!-- <p>Online shopping is getting popular nowadays and it is a major necessity for Business to set up a good e-commerce site.we  offer successful solutions for developing e-commerce and shopping cart websites for online business and we have the expertise team to develop the e-commerce websites to promote your business.</p> -->
 						</div>
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<div class="icon six">
 							<!-- <img src="../images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4 class="service-11"><big>7</big><br />Digital Markting</h4>
+							<h4 class="service-11"><big>6</big><br />Digital Markting</h4>
 							<!-- <p>Online shopping is getting popular nowadays and it is a major necessity for Business to set up a good e-commerce site.we  offer successful solutions for developing e-commerce and shopping cart websites for online business and we have the expertise team to develop the e-commerce websites to promote your business.</p> -->
 						</div>
 					</div>

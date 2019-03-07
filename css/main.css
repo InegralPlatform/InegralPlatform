@@ -665,7 +665,9 @@ div.service div.icon {
     margin-bottom: 30px;
     border-radius: 5%;
 }
-
+div.service div.icon p ul li {
+      list-style: none;
+}
 div.icon>i {
     color: #0060C4;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1211,6 +1213,7 @@ div.testimonials {
     font-weight: 300;
     line-height: 1.4;
     padding: 10px 0;
+      font-family: 'mbc'
 }
 
 .testimonial-author {
@@ -1439,7 +1442,8 @@ div.footer li {
 
 div.data-contact p.title,
 div.data-contact h1 {
-    color: #fff
+    color: #fff;
+      font-family: 'mbc'
 }
 
 div.footer ul.quick-link li a:hover {
@@ -1604,6 +1608,7 @@ div.social-links {
 div.social-links p {
     color: #fff;
     font-weight: bold;
+    font-family: 'mbc'
 }
 
 div.social-links ul li:hover {
