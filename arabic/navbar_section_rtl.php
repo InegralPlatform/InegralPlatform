@@ -11,7 +11,7 @@
 				<ul class="nav navbar-nav navbar-left">
 					<li><a href="#about">من نكون</a></li>
 					<li><a href="#service"><span>الخدمات</span></a></li>
-						<li><a href="#solutions"><span>الحلول</span></a></li>
+						<!-- <li><a href="#solutions"><span>الحلول</span></a></li> -->
 					<!-- <li><a href="#department">أقسام العمل</a></li> -->
 					<!-- <li><a href="#solution">أعمالنا</a></li> -->
 					<!-- <li><a href="#team">فريق العمل</a></li> -->

@@ -27,7 +27,7 @@
 					 <div class="col-lg-5 col-md-12  wow fadeInLeft" data-wow-offset="100" data-wow-delay=".2s">
 					<img src="images/44.png" class="img-responsive" alt="form.jpg">
 					<div class=" form">
-				<p class="titles text-center"> احجز موعد </p>
+				<p class="titles text-center"> اطلب خدمة  </p>
 						<div class="col-sm-12 ">
 							<input type="text" class="form-control" name="name" id="name" placeholder=" الاسم" /> </div>
 
@@ -36,10 +36,10 @@
 							<input type="text" class="form-control" name="email" id="email" placeholder=" الايميل" />
 							 </div>
 						<div class="col-sm-12">
-							<input type="number" class="form-control" name="phone" id="phone" placeholder=" اختر رقم" /> </div>
+							<input type="number" class="form-control" name="phone" id="phone" placeholder=" رقم الخدمة " /> </div>
 						<div class="col-sm-12">
-							<input type="text" class="form-control" placeholder="حدد التاريخ-" id="datepicker"> </div>
-						<button class="form-control btn-primary center-block" id="Appointment">تسجيل</button>
+							<input type="text" class="form-control" placeholder="حدد تاريخ و وقت الاتصال" id="datepicker"> </div>
+						<button class="form-control btn-primary center-block" id="Appointment">طلب</button>
 					</div>
 				</div>
 
@@ -51,19 +51,19 @@
 								 <p class="title pull-right">ســاعــات العمل </p>
 							 <div class=" cases">
 								<br>
+								<!-- <div class="time-div">
+									<p class="day">السبت</p> <span class="time pull-right">10.00 – 21.00</span></div><br> -->
 								<div class="time-div">
-									<p class="day">السبت</p> <span class="time pull-right">10.00 – 21.00</span></div><br>
+									<p class="day">الاحد</p> <span class="time pull-right">9.00 – 5.00</span></div><br>
 								<div class="time-div">
-									<p class="day">الاحد</p> <span class="time pull-right">9.50 – 14.00</span></div><br>
-								<div class="time-div">
-									<p class="day">الاثنين</p> <span class="time pull-right">11.50 – 16.00</span></div><br>
+									<p class="day">الاثنين</p> <span class="time pull-right">9.00 – 5.00</span></div><br>
 									<div class="time-div">
-									<p class="day">الثلاثاء</p> <span class="time pull-right">11.00 – 17.00</span></div><br>
+									<p class="day">الثلاثاء</p> <span class="time pull-right">9.00 – 5.00</span></div><br>
 									<div class="time-div">
-									<p class="day">الاربعاء</p> <span class="time pull-right">9.00 – 15.00</span></div><br>
+									<p class="day">الاربعاء</p> <span class="time pull-right">9.00 – 5.00</span></div><br>
 
 									<div class="time-div">
-									<p class="day">الخميس</p> <span class="time pull-right">10.30 – 18.00</span></div><br>
+									<p class="day">الخميس</p> <span class="time pull-right">9.00 – 5.00</span></div><br>
 									</div>
 								</div>
 						</div>

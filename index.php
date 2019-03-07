@@ -27,9 +27,9 @@
 	</div>
 	<!-- end Our service -->
   <!-- start Our solutions -->
-  <div class="service" id="solutions" data-wow-offset="250">
-    <?php include('arabic/solutions_rtl.php');?>
-  </div>
+  <!-- <div class="service" id="solutions" data-wow-offset="250">
+    <?php //include('arabic/solutions_rtl.php');?>
+  </div> -->
   <!-- end Our solutions -->
 	<!-- Start Video Section -->
 	<div class="touch-all">
