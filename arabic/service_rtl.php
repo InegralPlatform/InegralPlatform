@@ -22,7 +22,7 @@
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 						<a href="webDesign.php"><div class="icon three">
 							<!-- <img src="images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn"> -->
-							<h4>تصميم وتطوير مواقع الويب(Wep Developing)</h4>
+							<h4>تصميم وتطوير مواقع الويب(Wep Developing) </h4>
 
 						</div></a>
 					</div>
