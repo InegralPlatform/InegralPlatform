@@ -1,12 +1,13 @@
-<div class="all">
+<div class="all service">
 			<div class="container">
 				<h1 class="wow  bounceIn">الخدمات التى تقدمها شركة المنصة المتكاملة</h1>
 				<hr class="center-block">
 				<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12  center-block ">
-
-							<!-- <img src="images/xcode.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
-							<div class="icon one "><a href="ERP"><h4 class="service-11"><big>1</big><br /> أنظمة ادارة الموارد(ERP)     </h4></a>
+						<a href="#">
+							 <div class="icon one">
+							<img src="images/services/service/erp.svg" alt="png" class="img-responsive center-block wow  bounceIn">
+							<a href="ERP"><h4 class="service-11"><big></big><br /> أنظمة ادارة الموارد     </h4></a>
 
 
 						<p>
@@ -25,26 +26,29 @@
 								</li>
 							</ul>
 						</p>
-							</div>
+
+</div>
+</a>
+
 					</div>
 					<div class="col-md-4  col-sm-12 col-xs-12 center-block">
 					<a href="#">
 					  <div class="icon two">
-							<!-- <img src="images/android.png" alt="png" class="img-responsive center-block wow  bounceIn"> -->
-							<a href=""><h4><big>2</big><br />تصميم وبرمجة تطبيقات الجوال</h4></a>
+							<img src="images/services/service/smartphone.svg" alt="" class="img-responsive center-block wow  bounceIn">
+							<a href=""><h4><big></big><br />تصميم وبرمجة تطبيقات الجوال</h4></a>
 
 
 
 						<p>
 							<ul>
 							<li>
-							 تطبيقات iOS
+							 تطبيقات الايفون
 							</li>
 						<li>
-						تطبيقات Android
+						تطبيقات الاندرويد
 						</li>
 						<li>
-							  تطبيقات Cross
+							  تطبيقات الهجينة
 						</li>
 							</ul>
 						</p>
@@ -52,8 +56,8 @@
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 					<div class="icon three">
-							<!-- <img src="images/robot.png" alt="bacteria.png" class="img-responsive center-block wow  bounceIn"> -->
-								<a href="#"><h4><big>3</big><br />برمجة مواقع وتطبيقات الويب(Wep Developing) </h4></a>
+							<img src="images/services/service/responsive.svg" alt="bacteria.png" class="img-responsive center-block wow  bounceIn">
+								<a href="#"><h4><big></big><br />برمجة مواقع وتطبيقات الويب </h4></a>
 
 
 					<p>
@@ -81,8 +85,8 @@
 				<div class="row">
 					<div class="col-md-4  col-sm-12 col-xs-12 center-block ">
 						<div class="icon four">
-							<!-- <img src="images/big-data.png" alt="tooth.png" class="img-responsive center-block wow  bounceIn"> -->
-							  <a href="#"><h4 class="service-11"><big>4</big><br />- خدمات التصميم </h4></a>
+							<img src="images/services/service/sketch.svg" alt="tooth.png" class="img-responsive center-block wow  bounceIn">
+							  <a href="#"><h4 class="service-11"><big></big><br />- خدمات التصميم </h4></a>
 
 
 
@@ -110,8 +114,8 @@
 
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block">
 					<div class="icon six">
-							<!-- <img src="images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
-								<a href="#"><h4 class="service-11"><big>5</big><br />برمجة المتاجر الإلكترونية   </h4></a>
+							<img src="images/services/service/shopping.svg" alt="lab.png" class="img-responsive center-block wow  bounceIn">
+								<a href="#"><h4 class="service-11"><big></big><br />برمجة المتاجر الإلكترونية   </h4></a>
 
 
 				<p>
@@ -134,23 +138,11 @@
 					</div>
 					<div class="col-md-4   col-sm-12 col-xs-12  center-block ">
 						<div class="icon six">
-							<!-- <img src="images/online-store.png" alt="lab.png" class="img-responsive center-block wow  bounceIn"> -->
-							<a href="#"><h4 class="service-11"><big>6</big><br />(Digital Markting) التسويق الإلكتروني </h4></a>
+							<img src="images/services/service/seo.svg" alt="lab.png" class="img-responsive center-block wow  bounceIn">
+							<a href="#"><h4 class="service-11"><big></big><br /> التسويق الإلكتروني </h4></a>
 
 
-					<p>
-						<ul>
-							<li>
-								 إدارة الحملات في وسائل التواصل
-							</li>
-							<li>
-								 باقات مرنة
-							</li>
-							<li>
-								 تقارير عن النتائج
-							</li>
-						</ul>
-					</p>
+
 						</div>
 					</div>
 

@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<p class="title">All rights reserved to Integral IT Solutions &copy; 2018 <br>We are happy to follow you on social networking sites</p>
+					<p class="title">All rights reserved to Integral IT Solutions &copy; <?php echo date("Y");?> <br>We are happy to follow you on social networking sites</p>
 
 					<ul class="social ">
 						<li><a href="#"><i class="fa fa-facebook"></i></a></li>

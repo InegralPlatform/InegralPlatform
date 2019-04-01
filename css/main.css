@@ -684,7 +684,10 @@ div.service div.icon:hover {
     box-shadow: none;
 }
 
+.all ul li {
+  list-style:none;
 
+}
 /****************************/
 
 

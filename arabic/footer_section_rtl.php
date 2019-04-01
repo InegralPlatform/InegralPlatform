@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<p class="title">جميع حقوق العمل محفوظة للشركه سنة الاصدار &copy; 2018 <br>يسعدنا  متابعتكم عل مواقع التواصل الاجتماعى </p>
+				<p class="title"> حقوق العمل محفوظة للمنصة المتكاملة  &copy; <?php echo date("Y"); ?> <br>يسعدنا  متابعتكم عل مواقع التواصل الاجتماعى </p>
 
 					<ul class="social ">
 						<li><a href="#"><i class="fa fa-facebook"></i></a></li>

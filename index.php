@@ -17,9 +17,9 @@
 	</div>
 	<!-- End About Us Section -->
 	<!-- start countup -->
-	<div class="counters" id="counter">
-		<?php include('arabic/countup_rtl.php');?>
-	</div>
+	<!-- <div class="counters" id="counter">
+		<?php //include('arabic/countup_rtl.php');?>
+	</div> -->
 	<!-- end countup -->
 	<!-- start Our service -->
 	<div class="service" id="service" data-wow-offset="250">
@@ -32,31 +32,31 @@
   </div> -->
   <!-- end Our solutions -->
 	<!-- Start Video Section -->
-	<div class="touch-all">
-		<?php include('arabic/video_rtl.php');?>
-	</div>
+	<!-- <div class="touch-all">
+		<?php //include('arabic/video_rtl.php');?>
+	</div> -->
 	<!-- End Video Section -->
 
 	<!--logos  -->
-	<div class="logos"> </div>
+	<!-- <div class="logos"> </div> -->
 	<!--End Logos  -->
 
 
 	<!--Logos  -->
-	<div class="logo">
+	<!-- <div class="logo">
 	<?php //include('arabic/Partners_rtl.php');?>
-	</div>
+	</div> -->
 	<!--Logos  -->
 
 	<!--Start testimonial  -->
-	<div class="testimonials">
-		<?php include('arabic/testimonials_rtl.php');?>
-	</div>
+	<!-- <div class="testimonials">
+		<?php //include('arabic/testimonials_rtl.php');?>
+	</div> -->
 	<!--End testimonial  -->
 	<!-- start Team Section -->
-	<div class="team" id="team">
+	<!-- <div class="team" id="team">
 		<?php //include('arabic/team_rtl.php');?>
-	</div>
+	</div> -->
 	<!-- end Team Section -->
 
 
