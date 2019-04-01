@@ -86,7 +86,7 @@
 					<div class="col-md-4  col-sm-12 col-xs-12 center-block ">
 						<div class="icon four">
 							<img src="images/services/service/sketch.svg" alt="tooth.png" class="img-responsive center-block wow  bounceIn">
-							  <a href="#"><h4 class="service-11"><big></big><br />- خدمات التصميم </h4></a>
+							  <a href="#"><h4 class="service-11"><big></big><br /> خدمات التصميم </h4></a>
 
 
 
@@ -141,7 +141,19 @@
 							<img src="images/services/service/seo.svg" alt="lab.png" class="img-responsive center-block wow  bounceIn">
 							<a href="#"><h4 class="service-11"><big></big><br /> التسويق الإلكتروني </h4></a>
 
-
+							<p>
+							 <ul>
+								 <li>
+										إدارة الحملات في وسائل التواصل
+								 </li>
+								 <li>
+										باقات مرنة
+								 </li>
+								 <li>
+										تقارير عن النتائج
+								 </li>
+							 </ul>
+						 </p>
 
 						</div>
 					</div>

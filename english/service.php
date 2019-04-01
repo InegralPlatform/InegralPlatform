@@ -11,17 +11,17 @@
 							<p>
 								<ul>
 									<li>
-										 نظام الموظفين
+										  Staff System
 									</li>
 									<li>
-										نظام المحاسبة
+										Accounting System
 									</li>
 									<li>
-										نظام المخازن
+										Warehouse system
 									</li>
 									<li>
-										نظام علاقات العملاء
-									</li>
+Customer Relationship System
+	</li>
 								</ul>
 							</p>
 						</div>
@@ -34,13 +34,13 @@
 							<p>
 								<ul>
 								<li>
-								 تطبيقات الايفون
+								IPhone Apps
 								</li>
 							<li>
-							تطبيقات الاندرويد
+						    Android applications
 							</li>
 							<li>
-								  تطبيقات الهجينة
+								Hybrid Applications
 							</li>
 								</ul>
 							</p>
@@ -77,16 +77,16 @@
 							<p>
 								<ul>
 									<li>
-										تصميم الأنظمة
+									    Systems Design
 									</li>
 									<li>
-										تصميم الواجهات
+									Design of facades
 									</li>
 									<li>
-										تصميم الموشن والميديا
+								     Design of Motion and Media
 									</li>
 									<li>
-										تصميم المحتوى
+										Content Design
 									</li>
 
 
@@ -104,13 +104,13 @@
 							<p>
 								<ul>
 									<li>
-									 بوابات دفع متكاملة
+								      Integrated payment gateways
 									</li>
 									<li>
-										تجربة عميل جذابة
+									   Attractive customer experience
 									</li>
 									<li>
-										إدارة سهلة
+									   Easy management
 									</li>
 									<li>
 
@@ -127,13 +127,13 @@
 							<p>
 							 <ul>
 								 <li>
-										إدارة الحملات في وسائل التواصل
+									 Manage campaigns in communication
 								 </li>
 								 <li>
-										باقات مرنة
+									 Flexible packages
 								 </li>
 								 <li>
-										تقارير عن النتائج
+									 Results reports
 								 </li>
 							 </ul>
 						 </p>
