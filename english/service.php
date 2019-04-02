@@ -42,6 +42,7 @@ Customer Relationship System
 							<li>
 								Hybrid Applications
 							</li>
+							<li>.</li>
 								</ul>
 							</p>
 						</div>
@@ -62,7 +63,7 @@ Customer Relationship System
 									<li>
 										 Responsive
 									</li>
-
+									<li>.</li>
 								</ul>
 							</p>
 						</div>
@@ -113,7 +114,7 @@ Customer Relationship System
 									   Easy management
 									</li>
 									<li>
-
+.
 									</li>
 								</ul>
 							</p>
@@ -135,6 +136,7 @@ Customer Relationship System
 								 <li>
 									 Results reports
 								 </li>
+								 <li>.</li>
 							 </ul>
 						 </p>
 						</div>

@@ -9,7 +9,7 @@
     <!-- <div class="logo">
       <i class="h">ip</i>
     </div> -->
-		Integrated Platform
+		<img src="../images/logo/logo.png">Integrated Platform
   </div>
 </div></a>
 			</div>

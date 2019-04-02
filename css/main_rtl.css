@@ -174,7 +174,7 @@ font-size: 18px
 }
 
  .navbar-default .navbar-nav>li>a {
-
+    font-family: 'mbc','Montserrat', sans-serif;
 }
 
 .navbar-default .navbar-nav .dropdown-toggle a {
@@ -199,7 +199,7 @@ font-size: 18px
 	 margin-left: 0;
 }
 a.navbar-brand {
-
+    font-family: 'mbc','Montserrat', sans-serif;
 
 }
 @media (min-width: 768px){
@@ -332,7 +332,7 @@ div.about p.next i {
 }
 
 div.about p.benefit {
-
+    font-family: 'mbc','Montserrat', sans-serif;
 }
 
 div.about p.titles {
@@ -359,7 +359,7 @@ div.about p.titles {
 }
 
 div.about p.title {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'mbc','Montserrat', sans-serif;
 	position: relative;
 	top: 20px;
 	display: inline-block;
