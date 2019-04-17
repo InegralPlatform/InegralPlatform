@@ -2,9 +2,17 @@
       /* General */
 /**************************/
 @font-face {
-  font-family: 'mbc';
-  src: url('mbc.ttf');
+  /*  للعنواين*/
+  font-family:'dubai-medium';
+  src: url('dubai-medium.ttf');
 }
+@font-face {
+  /*  للنصوص*/
+  font-family:'dubai-light';
+  src: url('dubai-light.ttf');
+}
+
+
 body {
 	font-size: 15px;
 	font-style: normal;
@@ -14,7 +22,7 @@ body {
 
 p {
 	color: rgba(51, 51, 51, 0.89);
-	font-family: 'mbc','Open Sans';
+	font-family: 'dubai-light';
 	line-height: 1.9em;
 	font-size: 18px;
 }
@@ -46,7 +54,7 @@ h4,
 h3,
 h1,
 h5 {
-	font-family:  'mbc','Montserrat', sans-serif;
+	font-family:  'dubai-medium';
 	direction: rtl;
 }
 
@@ -60,7 +68,7 @@ textarea,
 div.footer li,
 div.about input,
 span.post {
-	font-family:  'mbc','Open Sans';
+	font-family:  'dubai-light';
 	direction: rtl;
 }
 
@@ -169,12 +177,12 @@ a.navbar-brand img {
 
  .navbar-default .navbar-nav>li>.active>a, .navbar-default .navbar-nav>li>.active>a:focus, .navbar-default .navbar-nav>li>.active>a:hover , .navbar-default .navbar-nav>li>a{
 
-font-family: 'mbc';
+font-family: 'dubai-light';
 font-size: 18px
 }
 
  .navbar-default .navbar-nav>li>a {
-    font-family: 'mbc','Montserrat', sans-serif;
+    font-family: 'dubai-light';
 }
 
 .navbar-default .navbar-nav .dropdown-toggle a {
@@ -199,7 +207,7 @@ font-size: 18px
 	 margin-left: 0;
 }
 a.navbar-brand {
-    font-family: 'mbc','Montserrat', sans-serif;
+    font-family: 'dubai-light';
 
 }
 @media (min-width: 768px){
@@ -271,7 +279,7 @@ div.head h1 {
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
-	    font-family: 'mbc';
+	    /* font-family: 'mbc'; */
 }
 
 
@@ -279,7 +287,7 @@ div.head h1 {
 div.head h1 span {
 	color: #0060C4;
 	text-transform: capitalize;
-	font-family: 'Montserrat', sans-serif;
+	/* font-family: 'Montserrat', sans-serif; */
 }
 
 
@@ -332,12 +340,12 @@ div.about p.next i {
 }
 
 div.about p.benefit {
-    font-family: 'mbc','Montserrat', sans-serif;
+    /* font-family: 'mbc','Montserrat', sans-serif; */
 }
 
 div.about p.titles {
 	color: #fff;
-	font-family: 'Montserrat', sans-serif;
+	/* font-family: 'Montserrat', sans-serif; */
 	margin-bottom: 17px;
 }
 
@@ -359,7 +367,7 @@ div.about p.titles {
 }
 
 div.about p.title {
-	font-family: 'mbc','Montserrat', sans-serif;
+	/* font-family: 'mbc','Montserrat', sans-serif; */
 	position: relative;
 	top: 20px;
 	display: inline-block;
@@ -502,7 +510,7 @@ div.about input::-ms-input-placeholder {
 
 div.counter h3 {
 	font-style: normal;
-	font-family: 'Oswald', sans-serif;
+	/* font-family: 'Oswald', sans-serif; */
 }
 
 div.count {
@@ -523,7 +531,7 @@ div.counters {
 div.counters p {
 	font-size: 22px;
 	color: #fff;
-	font-family: 'Open Sans';
+	/* font-family: 'Open Sans'; */
 }
 
 div.counters i,
@@ -1240,7 +1248,7 @@ div.footer li {
 
 div.data-contact p.title,
 div.data-contact h1 {
-
+    /* font-family: 'mbc','Montserrat', sans-serif; */
 }
 
 div.footer ul.quick-link li a:hover {
