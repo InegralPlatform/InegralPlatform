@@ -25,6 +25,7 @@
 	<div class="service" id="service" data-wow-offset="250">
 		<?php include('arabic/service_rtl.php');?>
 	</div>
+
 	<!-- end Our service -->
   <!-- start Our solutions -->
   <!-- <div class="service" id="solutions" data-wow-offset="250">
@@ -70,4 +71,7 @@
 	<!--Start Footer section-->
  <?php include('arabic/footer_section_rtl.php');?>
 	<!-- End Footer Section -->
+  <!-- chat -->
+
 <?php include('arabic/footer_rtl.php');?>
+  <?php include('arabic/chat.php');?>

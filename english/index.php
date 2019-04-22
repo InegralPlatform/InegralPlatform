@@ -65,3 +65,4 @@
  <?php include('footer_section.php');?>
 	<!-- End Footer Section -->
 <?php include('footer.php');?>
+  <?php include('chat.php');?>
